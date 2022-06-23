@@ -15,5 +15,9 @@ This is a mine sweeper game made with Java.
 Refrence [here](https://minesweepergame.com/strategy/how-to-play-minesweeper.php) for in depth rules reguarding Minesweeper. <br/>
 *Note: In this version, one only needs to flag all the mines (not necessarily reveal all safe squares) to win.
 
+#### Controls
+* To place a flag hover over the desired tile with the mouse and press CTRL + left click
+* To remove a flag hover over the desired tile with the mouse and press press ALT + left click
+
 ## Contribution
 Made by Jacob Hanson
